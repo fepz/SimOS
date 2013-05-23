@@ -4,13 +4,13 @@ package org.unp.simos;
  *
  * @author Francisco E. Paez <franpaez at gmail dot com>
  */
-public class Sim1 {
+public class SimOS {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Ejecutivo1 exec = new Ejecutivo1();
+        Ejecutivo3 exec = new Ejecutivo3();
         exec.runSim();
     }
 }
